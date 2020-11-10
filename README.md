@@ -1,3 +1,3 @@
 # SW2020
 
-summary.md
+<a href="https://github.com/songminhye/SW2020/blob/main/summary.md">summary.md로 이동</a>
