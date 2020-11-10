@@ -5,7 +5,7 @@
 
 # 형태별 추가정보 기재:
 
-## 교과목형(예시)
+## 교과목형
 - <a href="https://github.com/songminhye/JAVA"> ELEC251015 자바프로그래밍 / 2017 1학기 / 이경숙</a>
 - <a href="https://github.com/songminhye/Logic_Circuit_Design"> COMP311006 논리회로설계 / 2018 1학기 / 김찬용</a>
 - <a href="https://github.com/songminhye/Data_Structure"> COME331003 자료구조 / 2018 2학기 / 박대진</a>
