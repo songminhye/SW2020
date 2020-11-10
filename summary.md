@@ -22,6 +22,6 @@
 
 ## 자율과제형
 - <a href="https://github.com/songminhye/C_language"> C_language </a>  : 튜터대비 학습
-- <a href="https://github.com/songminhye/EscapeHell"> Escape_Hell </a> : 동아리 안드로이드 어플 제작
+- <a href="https://github.com/songminhye/EscapeHell"> EscapeHell </a> : 동아리 안드로이드 어플 제작
 
                 
